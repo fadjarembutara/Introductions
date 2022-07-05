@@ -4,4 +4,4 @@ hello! panggil saja fajar
 - coding
 - machine learning
 - data sience
-- data analyst
+- learner
