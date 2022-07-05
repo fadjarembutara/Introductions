@@ -3,3 +3,5 @@ hello! panggil saja fajar
 - motion graphic
 - coding
 - machine learning
+- data sience
+- data analyst
